@@ -1,0 +1,15 @@
+.board {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #7297bc;
+    height: 80vh;
+    transition: all;
+  }
+
+  .title {
+    margin-top: 40px;
+    color: #fafafa;
+    font-weight: 700;
+  }
+  

@@ -1,0 +1,24 @@
+.list {
+  width: 250px;
+  padding: 20px 20px 60px 20px;
+  margin: 20px;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  position: relative;
+}
+.title {
+  background-color: inherit;
+}
+
+.addButton {
+  position: absolute;
+  width: calc(100% - 60px);
+  bottom: 0px;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-weight: 700;
+}
